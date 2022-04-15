@@ -29,7 +29,8 @@ riginal App Design Project - README Template
 
 **Required Must-have Stories**
 
-* Users can create an account
+* Users can create an account 
+- [x]
     * <img src='https://i.imgur.com/9ccHAqp.gif' title='Video Walkthrough' width='150' alt ='Video Walkthrough' />
 * ...
 
