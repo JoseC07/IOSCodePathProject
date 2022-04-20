@@ -32,7 +32,10 @@ riginal App Design Project - README Template
 * Users can create an account 
 - [x]
     * <img src='https://i.imgur.com/9ccHAqp.gif' title='Video Walkthrough' width='150' alt ='Video Walkthrough' />
-* ...
+* Users can login
+* - [x]
+    * <img src='https://i.imgur.com/Z0uyhBU.gif' title='Video Walkthrough' width='150' alt ='Video Walkthrough' />
+
 
 **Optional Nice-to-have Stories**
 
