@@ -36,6 +36,16 @@ riginal App Design Project - README Template
 * - [x]
     * <img src='https://i.imgur.com/Z0uyhBU.gif' title='Video Walkthrough' width='150' alt ='Video Walkthrough' />
 
+Users can see a list of all tasks assigned to them
+- [x]
+Users can see a list of task rooms they are in
+- [x]
+Users can create a Task room
+- [x]
+Previous 3 stories in this gif
+<img src='https://github.com/Sambusane/495_Roomies/blob/main/Roomies/Roomies/Milestone2Roomies.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+
 
 **Optional Nice-to-have Stories**
 
