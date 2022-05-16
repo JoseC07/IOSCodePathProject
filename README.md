@@ -81,7 +81,8 @@ Previous 3 stories in this gif
 
 ## Wireframes
 [Add picture of your hand sketched wireframes in this section]
-<img src="YOUR_WIREFRAME_IMAGE_URL" width=600>
+<img src="https://lucid.app/lucidchart/3fb1644c-3903-44b1-8724-00d4d451536f/edit?invitationId=inv_cd42608c-e186-4c0d-afb2-c83c6e160e33" width=600>
+
 
 ### [BONUS] Digital Wireframes & Mockups
 
